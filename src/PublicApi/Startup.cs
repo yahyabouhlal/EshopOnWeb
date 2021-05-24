@@ -37,7 +37,7 @@ namespace Microsoft.eShopWeb.PublicApi
 
         public void ConfigureDevelopmentServices(IServiceCollection services)
         {
-            // use in-memory database
+            //use in-memory database
             //ConfigureInMemoryDatabases(services);
 
             // use real database
